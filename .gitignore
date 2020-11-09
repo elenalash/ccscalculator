@@ -1,3 +1,8 @@
+.idea/
+play.py
+.gitignore
+ccs_calc_row.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
