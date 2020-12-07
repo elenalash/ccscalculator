@@ -12,7 +12,7 @@ This is a CCS calculator whcih allows many of the Australian families to calcula
 <br>
 
 ## Latest updates:
-* 
+* added favicon
 <br>
 
 
